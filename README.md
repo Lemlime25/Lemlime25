@@ -19,6 +19,6 @@ I'm especially interested in game development and UI/UX.
 
 ## 🌐 Contact Me 🌐
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/levon-tavitian)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:ltavitian@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:ltavitian25@gmail.com)
 
 </div>
